@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rezi
 - 👀 I’m interested in Game Programming
 - 🌱 I’m currently learning Go for Backend Webservice
-- 📫 How to reach me instagram : @usernamesalah
+- 📫 How to reach me instagram : instagram.com/usernamesalah
 
 <!---
 usernamesalah/usernamesalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
