@@ -10,7 +10,7 @@ I like experimenting with new technologies, building small projects, and playing
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a software engineer over at **[Avataralabs](https://abataralabs.ai)**
+- 👩🏻‍💻 Working as a software engineer over at **[Avataralabs](https://avataralabs.ai)**
 - 🌱 I’m currently learning Go for Backend Webservice
 - 💬 Ask me about Web Development
 
